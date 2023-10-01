@@ -1,3 +1,3 @@
-# aknorsh
+# aknorsh.github.io
 
-こんにちは、世界！
+Powered by [hugo](https://gohugo.io/)
