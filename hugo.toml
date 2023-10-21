@@ -2,7 +2,7 @@ baseURL = "http://aknorsh.example.com"
 title = "aknorsh"
 theme = "hugo-coder"
 languageCode = "en"
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 paginate = 20
 enableEmoji = true
 # Enable Disqus comments
@@ -174,7 +174,7 @@ name = "About"
 weight = 1
 url = "about/"
 
-#[[languages.ja.menu.main]]
-#name = "Post"
-#weight = 2
-#url = "posts/"
+[[languages.ja.menu.main]]
+name = "Post"
+weight = 2
+url = "posts/"
