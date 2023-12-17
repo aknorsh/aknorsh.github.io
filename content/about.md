@@ -6,11 +6,11 @@ draft = false
 
 Hi! I'm aknorsh, a software engineer in Japan.
 
-### Tech interests
+### Interests
 
 Software Architecture / Low-Level Programming / Golang
 
 ### Hobbies
 
 - Taking a walk or run while listening to podcasts.
-- Exploring new salt ramen places.
+- Salt ramen
